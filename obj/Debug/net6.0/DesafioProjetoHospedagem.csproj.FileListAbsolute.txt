@@ -1,0 +1,15 @@
+C:\Users\INSS\Desktop\a\bin\Debug\net6.0\DesafioProjetoHospedagem.exe
+C:\Users\INSS\Desktop\a\bin\Debug\net6.0\DesafioProjetoHospedagem.deps.json
+C:\Users\INSS\Desktop\a\bin\Debug\net6.0\DesafioProjetoHospedagem.runtimeconfig.json
+C:\Users\INSS\Desktop\a\bin\Debug\net6.0\DesafioProjetoHospedagem.dll
+C:\Users\INSS\Desktop\a\bin\Debug\net6.0\DesafioProjetoHospedagem.pdb
+C:\Users\INSS\Desktop\a\obj\Debug\net6.0\DesafioProjetoHospedagem.csproj.AssemblyReference.cache
+C:\Users\INSS\Desktop\a\obj\Debug\net6.0\DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INSS\Desktop\a\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+C:\Users\INSS\Desktop\a\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfo.cs
+C:\Users\INSS\Desktop\a\obj\Debug\net6.0\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\INSS\Desktop\a\obj\Debug\net6.0\DesafioProjetoHospedagem.dll
+C:\Users\INSS\Desktop\a\obj\Debug\net6.0\refint\DesafioProjetoHospedagem.dll
+C:\Users\INSS\Desktop\a\obj\Debug\net6.0\DesafioProjetoHospedagem.pdb
+C:\Users\INSS\Desktop\a\obj\Debug\net6.0\DesafioProjetoHospedagem.genruntimeconfig.cache
+C:\Users\INSS\Desktop\a\obj\Debug\net6.0\ref\DesafioProjetoHospedagem.dll
